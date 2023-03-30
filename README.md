@@ -16,7 +16,7 @@ Dieser Befehl erstellt die Docker-Images und startet die Container für Apache N
 
 ## Zugriff auf PGAdmin
 
-Sie können auf PGAdmin über den Netzwerkalias zugreifen. Standardmäßig ist der Netzwerkalias "pgadmin". Wenn Sie den Container gestartet haben, können Sie auf PGAdmin zugreifen, indem Sie in Ihrem Browser die URL http://pgadmin:5050 eingeben.
+Sie können auf PGAdmin über den Netzwerkalias zugreifen. Standardmäßig ist der Netzwerkalias "pgadmin". Wenn Sie den Container gestartet haben, können Sie auf PGAdmin zugreifen, indem Sie in Ihrem Browser die URL http://localhost:5050 eingeben.
 
 Wenn Sie auf PGAdmin zum ersten Mal zugreifen, müssen Sie sich mit den folgenden Anmeldeinformationen anmelden:
 
